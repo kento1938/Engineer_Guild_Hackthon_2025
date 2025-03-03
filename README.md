@@ -8,9 +8,7 @@
 
 https://github.com/kento1938/Engineer_Guild_Hackthon_2025/blob/main/hackathon.pptx
 
-## 🚀 利用方法
-
-全体像
+## 🚀 全体像
 
 https://github.com/user-attachments/assets/222a2294-5187-4c77-9585-447bf8c04102
 
