@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/222a2294-5187-4c77-9585-447bf8c04102
 
 ### 2. お店として登録する場合  
 
-https://github.com/user-attachments/assets/8e1e3724-b7fa-4180-8b7f-bef5a353443f
+- https://github.com/user-attachments/assets/8e1e3724-b7fa-4180-8b7f-bef5a353443f
 
 
 - 廃棄寸前の商品を把握し、以下の情報を投稿します：  
