@@ -3,6 +3,7 @@
 このプロジェクトは、Engineer_Guild_Hackthon_2025にて**食品ロス削減を目的とした**  
 『廃棄される寸前の商品を消費者が見つけられる』プラットフォームウェブサイト以下のリポジトリ―を整理したものです。
 (https://github.com/05ryt31/Hackathon-team47)
+
 発表資料
 https://github.com/kento1938/Engineer_Guild_Hackthon_2025/blob/main/hackathon.pptx
 
