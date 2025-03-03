@@ -35,6 +35,8 @@ https://github.com/user-attachments/assets/222a2294-5187-4c77-9585-447bf8c04102
 - 予約が入るのを待ち、回収に来た消費者に **現地会計** で対応します。
 
 
+## 利用方法　
+
 ## How to set up? (Frontend)
 
 ### Step 1
@@ -119,7 +121,7 @@ CREATE DATABASE mydatabase;
 
 mydatabase (2)
 
-.env 
+.env に記述
 DATABASE_URL="postgresql://postgres:<パスワード (1)>@localhost:5432/<mydatabase (2)>?schema=public"
 
 ### Step 1
