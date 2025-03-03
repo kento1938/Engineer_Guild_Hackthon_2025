@@ -19,9 +19,10 @@ https://github.com/user-attachments/assets/222a2294-5187-4c77-9585-447bf8c04102
   - 🗺 **マップ機能**：自分の周辺のお店を探せます。  
   - ⭐ **おすすめ機能**：レシート（写真を撮る or アップロード）をもとに、システムが自動でおすすめ商品を表示します。
 
-  - https://github.com/user-attachments/assets/867b6e0e-06ca-48ce-a34e-e746fc25e825
+    https://github.com/user-attachments/assets/867b6e0e-06ca-48ce-a34e-e746fc25e825
 
-  - 📋 **一覧機能**：すべての商品を順番に閲覧できます。  
+  - 📋 **一覧機能**：すべての商品を順番に閲覧できます。
+     
 　- 気になる商品を選んで **予約** し、お店へ行って現地で支払いを行います。
 
 ### 2. お店として登録する場合  
